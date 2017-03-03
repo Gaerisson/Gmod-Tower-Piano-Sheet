@@ -1,0 +1,11 @@
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\bin\Debug\gmodtower musiclist.exe.config
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\bin\Debug\gmodtower musiclist.exe
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\bin\Debug\gmodtower musiclist.pdb
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\bin\Debug\gmodtower musiclist.xml
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower_musiclist.Form1.resources
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower_musiclist.Resources.resources
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower musiclist.vbproj.GenerateResource.Cache
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower musiclist.exe
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower musiclist.xml
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower musiclist.pdb
+f:\users\gaetan\documents\visual studio 2013\Projects\gmodtower musiclist\gmodtower musiclist\obj\Debug\gmodtower musiclist.vbprojResolveAssemblyReference.cache
